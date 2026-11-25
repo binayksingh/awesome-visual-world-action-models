@@ -1,0 +1,6 @@
+method,L2_m,collision_pct,paper_id,source,note
+VAD-Base,0.72,0.22,jiang2023vad,as reported by GenAD,averaged protocol
+OccWorld-O,0.64,0.24,zheng2024occworld,original,averaged protocol
+LAW (perception-free),0.61,0.30,li2025law,original,averaged protocol
+GenAD,0.52,0.19,zheng2024genad,original,averaged protocol
+World4Drive,0.50,0.16,zheng2025world4drive,original,averaged protocol

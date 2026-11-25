@@ -1,0 +1,6 @@
+method,input,mIoU,IoU,paper_id,source,note
+Copy & paste,occupancy,11.33,20.52,gu2024dome,baseline from DOME,
+OccWorld-D,camera,8.62,16.53,zheng2024occworld,original,
+OccWorld-O,occupancy,17.14,26.63,zheng2024occworld,original,
+DOME-F,camera,18.25,28.84,gu2024dome,original,
+DOME-O,occupancy,27.10,36.36,gu2024dome,original,

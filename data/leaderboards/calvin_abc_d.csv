@@ -1,0 +1,7 @@
+method,avg_len,paper_id,source,note
+UniPi,0.92,du2023unipi,as reported by VPP,
+SuSIE,2.69,black2024susie,original,
+GR-1,3.06,wu2024gr1,original,
+Seer,4.28,tian2025seer,original,
+VPP,4.33,hu2025vpp,original,
+DreamVLA,4.44,zhang2025dreamvla,original,

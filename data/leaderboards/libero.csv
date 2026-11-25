@@ -1,0 +1,7 @@
+method,Spatial,Object,Goal,Long,Avg,paper_id,source,note
+OpenVLA,84.7,88.4,79.2,53.7,76.5,kim2024openvla,original,
+WorldVLA,87.6,96.2,83.4,60.0,81.8,cen2025worldvla,original,512x512
+pi0,96.8,98.8,95.8,85.2,94.2,black2025pi0,as compiled by Cosmos Policy,
+UniVLA,96.5,96.8,95.6,92.0,95.2,bu2025univla,as compiled by Cosmos Policy,
+OpenVLA-OFT,97.6,98.4,97.9,94.5,97.1,kim2025openvlaoft,original,
+Cosmos Policy,98.1,100.0,98.2,97.6,98.5,kim2026cosmospolicy,original,

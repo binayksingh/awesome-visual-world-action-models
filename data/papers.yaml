@@ -1,0 +1,991 @@
+papers:
+- id: guan2024wmadsurvey
+  title: 'World Models for Autonomous Driving: An Initial Survey'
+  first_author: Guan
+  year: 2024
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2403.02622'
+  in_survey: true
+  added: '2026-11-23'
+- id: feng2025wmadsurvey
+  title: A Survey of World Models for Autonomous Driving
+  first_author: Feng
+  year: 2025
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2501.11260'
+  in_survey: true
+  added: '2026-11-23'
+- id: tu2025dwmsurvey
+  title: 'The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey'
+  first_author: Tu
+  year: 2025
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2502.10498'
+  in_survey: true
+  added: '2026-11-23'
+- id: li2025embodiedwmsurvey
+  title: A Comprehensive Survey on World Models for Embodied AI
+  first_author: Li
+  year: 2025
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2510.16732'
+  in_survey: true
+  added: '2026-11-23'
+- id: kong2025worldmodeling34d
+  title: '3D and 4D World Modeling: A Survey'
+  first_author: Kong
+  year: 2025
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2509.07996'
+  in_survey: true
+  added: '2026-11-23'
+- id: shang2026embodiedwm
+  title: A Survey of Embodied World Models
+  first_author: Shang
+  year: 2026
+  venue: ''
+  category: survey
+  doi: 10.20944/preprints202604.0928.v1
+  in_survey: true
+  added: '2026-11-23'
+- id: wang2026wamfrontier
+  title: 'World Action Models: The Next Frontier in Embodied AI'
+  first_author: Wang
+  year: 2026
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2605.12090'
+  in_survey: true
+  added: '2026-11-23'
+- id: shen2026wamsurvey
+  title: 'World Action Models: A Survey'
+  first_author: Shen
+  year: 2026
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2606.20781'
+  in_survey: true
+  added: '2026-11-23'
+- id: lu2026wamrobot
+  title: 'World-Action Models for Robot Learning and Control: A Survey'
+  first_author: Lu
+  year: 2026
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2609.16074'
+  in_survey: true
+  added: '2026-11-23'
+- id: zhang2026wamtutorial
+  title: 'From World Models to World Action Models: A Concise Tutorial for Robotics'
+  first_author: Zhang
+  year: 2026
+  venue: arXiv preprint
+  category: survey
+  arxiv: '2607.00836'
+  in_survey: true
+  added: '2026-11-23'
+- id: ha2018world
+  title: Recurrent World Models Facilitate Policy Evolution
+  first_author: Ha
+  year: 2018
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS)
+  category: latent
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '1809.01999'
+- id: hafner2019planet
+  title: Learning Latent Dynamics for Planning from Pixels
+  first_author: Hafner
+  year: 2019
+  venue: Proc. 36th Int. Conf. Mach. Learn. (ICML), PMLR
+  category: latent
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '1811.04551'
+- id: hafner2021dreamerv2
+  title: Mastering Atari with Discrete World Models
+  first_author: Hafner
+  year: 2021
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: latent
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2010.02193'
+- id: hafner2025dreamerv3
+  title: Mastering Diverse Control Tasks through World Models
+  first_author: Hafner
+  year: 2025
+  venue: Nature
+  category: latent
+  doi: 10.1038/s41586-025-08744-2
+  in_survey: true
+  added: '2026-11-23'
+- id: wu2022daydreamer
+  title: 'DayDreamer: World Models for Physical Robot Learning'
+  first_author: Wu
+  year: 2022
+  venue: Proc. 6th Conf. Robot Learn. (CoRL), PMLR
+  category: latent
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2206.14176'
+- id: bardes2024vjepa
+  title: Revisiting Feature Prediction for Learning Visual Representations from Video
+  first_author: Bardes
+  year: 2024
+  venue: Trans. Mach. Learn. Res.
+  category: latent
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2404.08471'
+- id: assran2025vjepa2
+  title: 'V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning'
+  first_author: Assran
+  year: 2025
+  venue: arXiv preprint
+  category: latent
+  arxiv: '2506.09985'
+  in_survey: true
+  added: '2026-11-23'
+- id: lai2025wmp
+  title: World Model-Based Perception for Visual Legged Locomotion
+  first_author: Lai
+  year: 2025
+  venue: Proc. IEEE Int. Conf. Robot. Autom. (ICRA)
+  category: latent
+  doi: 10.1109/ICRA55743.2025.11128762
+  in_survey: true
+  added: '2026-11-23'
+- id: ye2025lapa
+  title: Latent Action Pretraining from Videos
+  first_author: Ye
+  year: 2025
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: latent
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2410.11758'
+- id: du2023unipi
+  title: Learning Universal Policies via Text-Guided Video Generation
+  first_author: Du
+  year: 2023
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2302.00111'
+- id: yang2024unisim
+  title: Learning Interactive Real-World Simulators
+  first_author: Yang
+  year: 2024
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2310.06114'
+- id: bruce2024genie
+  title: 'Genie: Generative Interactive Environments'
+  first_author: Bruce
+  year: 2024
+  venue: Proc. 41st Int. Conf. Mach. Learn. (ICML), PMLR
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2402.15391'
+- id: parkerholder2024genie2
+  title: 'Genie 2: A Large-Scale Foundation World Model'
+  first_author: Parker-Holder
+  year: 2024
+  venue: ''
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  url: https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/
+- id: alonso2024diamond
+  title: 'Diffusion for World Modeling: Visual Details Matter in Atari'
+  first_author: Alonso
+  year: 2024
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2405.12399'
+- id: wu2024ivideogpt
+  title: 'iVideoGPT: Interactive VideoGPTs are Scalable World Models'
+  first_author: Wu
+  year: 2024
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2405.15223'
+- id: nvidia2025cosmos
+  title: Cosmos World Foundation Model Platform for Physical AI
+  first_author: NVIDIA
+  year: 2025
+  venue: arXiv preprint
+  category: video
+  arxiv: '2501.03575'
+  in_survey: true
+  added: '2026-11-23'
+- id: cen2025worldvla
+  title: 'WorldVLA: Towards Autoregressive Action World Model'
+  first_author: Cen
+  year: 2025
+  venue: arXiv preprint
+  category: video
+  arxiv: '2506.21539'
+  in_survey: true
+  added: '2026-11-23'
+- id: unitree2025unifolm
+  title: 'UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family'
+  first_author: Unitree Robotics
+  year: 2025
+  venue: ''
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  url: https://github.com/unitreerobotics/unifolm-world-model-action
+- id: liao2026genieenvisioner
+  title: 'Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation'
+  first_author: Liao
+  year: 2026
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2508.05635'
+- id: ye2026dreamzero
+  title: World Action Models are Zero-shot Policies
+  first_author: Ye
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2602.15922'
+  in_survey: true
+  added: '2026-11-23'
+- id: kim2026cosmospolicy
+  title: 'Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning'
+  first_author: Kim
+  year: 2026
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2601.16163'
+- id: yuan2026fastwam
+  title: 'Fast-WAM: Do World Action Models Need Test-time Future Imagination?'
+  first_author: Yuan
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2603.16666'
+  in_survey: true
+  added: '2026-11-23'
+- id: zhou2026simplewam
+  title: What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling
+  first_author: Zhou
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2609.34981'
+  in_survey: true
+  added: '2026-11-23'
+- id: jiang2026rewam
+  title: Rethinking Representations for World-Action Modeling
+  first_author: Jiang
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2609.38163'
+  in_survey: true
+  added: '2026-11-23'
+- id: yu2026boxwam
+  title: 'Box-WAM: Box Trajectories as Compact State Representations for World Action Models'
+  first_author: Yu
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2610.17526'
+  in_survey: true
+  added: '2026-11-23'
+- id: guo2026xwam
+  title: Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising
+  first_author: Guo
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2604.26694'
+  in_survey: true
+  added: '2026-11-23'
+- id: liu2026aw0
+  title: Agentic World Action Models
+  first_author: Liu
+  year: 2026
+  venue: arXiv preprint
+  category: video
+  arxiv: '2610.30136'
+  in_survey: true
+  added: '2026-11-23'
+- id: wu2024gr1
+  title: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation
+  first_author: Wu
+  year: 2024
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2312.13139'
+- id: black2024susie
+  title: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models
+  first_author: Black
+  year: 2024
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2310.10639'
+- id: tian2025seer
+  title: Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation
+  first_author: Tian
+  year: 2025
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2412.15109'
+- id: hu2025vpp
+  title: 'Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations'
+  first_author: Hu
+  year: 2025
+  venue: Proc. 42nd Int. Conf. Mach. Learn. (ICML)
+  category: video
+  arxiv: '2412.14803'
+  in_survey: true
+  added: '2026-11-23'
+- id: zhang2025dreamvla
+  title: 'DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge'
+  first_author: Zhang
+  year: 2025
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS)
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2507.04447'
+- id: bu2025univla
+  title: 'UniVLA: Learning to Act Anywhere with Task-centric Latent Actions'
+  first_author: Bu
+  year: 2025
+  venue: 'Robot.: Sci. Syst. (RSS)'
+  category: video
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2505.06111'
+- id: cheang2024gr2
+  title: 'GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation'
+  first_author: Cheang
+  year: 2024
+  venue: arXiv preprint
+  category: video
+  arxiv: '2410.06158'
+  in_survey: true
+  added: '2026-11-23'
+- id: wang2024worlddreamer
+  title: 'WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens'
+  first_author: Wang
+  year: 2024
+  venue: arXiv preprint
+  category: video
+  arxiv: '2401.09985'
+  in_survey: true
+  added: '2026-11-23'
+- id: chen2024moto
+  title: 'Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos'
+  first_author: Chen
+  year: 2024
+  venue: arXiv preprint
+  category: video
+  arxiv: '2412.04445'
+  in_survey: true
+  added: '2026-11-23'
+- id: zhen2024threedvla
+  title: '3D-VLA: A 3D Vision-Language-Action Generative World Model'
+  first_author: Zhen
+  year: 2024
+  venue: Proc. 41st Int. Conf. Mach. Learn. (ICML), PMLR
+  category: 3d4d
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2403.09631'
+- id: lu2024manigaussian
+  title: 'ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation'
+  first_author: Lu
+  year: 2024
+  venue: Proc. Eur. Conf. Comput. Vis. (ECCV), LNCS
+  category: 3d4d
+  doi: 10.1007/978-3-031-72761-0_20
+  in_survey: true
+  added: '2026-11-23'
+- id: xie2024physgaussian
+  title: 'PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics'
+  first_author: Xie
+  year: 2024
+  venue: Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)
+  category: 3d4d
+  doi: 10.1109/CVPR52733.2024.00420
+  in_survey: true
+  added: '2026-11-23'
+- id: huang2025enerverse
+  title: 'EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation'
+  first_author: Huang
+  year: 2025
+  venue: arXiv preprint
+  category: 3d4d
+  arxiv: '2501.01895'
+  in_survey: true
+  added: '2026-11-23'
+- id: kerbl2023gaussian
+  title: 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+  first_author: Kerbl
+  year: 2023
+  venue: ACM Trans. Graph.
+  category: 3d4d
+  doi: 10.1145/3592433
+  in_survey: true
+  added: '2026-11-23'
+- id: wu2023slotformer
+  title: 'SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models'
+  first_author: Wu
+  year: 2023
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: 3d4d
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2210.05861'
+- id: hu2023gaia1
+  title: 'GAIA-1: A Generative World Model for Autonomous Driving'
+  first_author: Hu
+  year: 2023
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2309.17080'
+  in_survey: true
+  added: '2026-11-23'
+- id: wang2024drivedreamer
+  title: 'DriveDreamer: Towards Real-World-Drive World Models for Autonomous Driving'
+  first_author: Wang
+  year: 2024
+  venue: Proc. Eur. Conf. Comput. Vis. (ECCV), LNCS
+  category: driving
+  doi: 10.1007/978-3-031-73195-2_4
+  in_survey: true
+  added: '2026-11-23'
+- id: wang2024drivewm
+  title: 'Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving'
+  first_author: Wang
+  year: 2024
+  venue: Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)
+  category: driving
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2311.17918'
+- id: gao2024vista
+  title: 'Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability'
+  first_author: Gao
+  year: 2024
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS)
+  category: driving
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2405.17398'
+- id: zhang2025epona
+  title: 'Epona: Autoregressive Diffusion World Model for Autonomous Driving'
+  first_author: Zhang
+  year: 2025
+  venue: Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV)
+  category: driving
+  arxiv: '2506.24113'
+  in_survey: true
+  added: '2026-11-23'
+- id: ren2025cosmosdrive
+  title: 'Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models'
+  first_author: Ren
+  year: 2025
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2506.09042'
+  in_survey: true
+  added: '2026-11-23'
+- id: zheng2024occworld
+  title: 'OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving'
+  first_author: Zheng
+  year: 2024
+  venue: Proc. Eur. Conf. Comput. Vis. (ECCV), LNCS
+  category: driving
+  doi: 10.1007/978-3-031-72624-8_4
+  in_survey: true
+  added: '2026-11-23'
+- id: gu2024dome
+  title: 'DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model'
+  first_author: Gu
+  year: 2024
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2410.10429'
+  in_survey: true
+  added: '2026-11-23'
+- id: li2025wote
+  title: End-to-End Driving with Online Trajectory Evaluation via BEV World Model
+  first_author: Li
+  year: 2025
+  venue: Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV)
+  category: driving
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2504.01941'
+- id: li2025law
+  title: Enhancing End-to-End Autonomous Driving with Latent World Model
+  first_author: Li
+  year: 2025
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: driving
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2406.08481'
+- id: zheng2025world4drive
+  title: 'World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model'
+  first_author: Zheng
+  year: 2025
+  venue: Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV)
+  category: driving
+  arxiv: '2507.00603'
+  in_survey: true
+  added: '2026-11-23'
+- id: li2026drivevlaw0
+  title: 'DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving'
+  first_author: Li
+  year: 2026
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: driving
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2510.12796'
+- id: zhao2026simwam
+  title: 'SimWAM: A Simple World Action Model for End-to-End Autonomous Driving'
+  first_author: Zhao
+  year: 2026
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2608.07468'
+  in_survey: true
+  added: '2026-11-23'
+- id: fan2026drivehwm
+  title: 'Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving'
+  first_author: Fan
+  year: 2026
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2609.03572'
+  in_survey: true
+  added: '2026-11-23'
+- id: jia2026walt
+  title: 'WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving'
+  first_author: Jia
+  year: 2026
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2609.30436'
+  in_survey: true
+  added: '2026-11-23'
+- id: zheng2024genad
+  title: 'GenAD: Generative End-to-End Autonomous Driving'
+  first_author: Zheng
+  year: 2024
+  venue: Proc. Eur. Conf. Comput. Vis. (ECCV), LNCS
+  category: driving
+  doi: 10.1007/978-3-031-73650-6_6
+  in_survey: true
+  added: '2026-11-23'
+- id: singh2027actionmatter
+  title: Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving
+  first_author: Singh
+  year: 2026
+  venue: arXiv preprint
+  category: driving
+  arxiv: '2611.24840'
+  in_survey: true
+  added: '2026-11-23'
+- id: brohan2023rt1
+  title: 'RT-1: Robotics Transformer for Real-World Control at Scale'
+  first_author: Brohan
+  year: 2023
+  venue: 'Robot.: Sci. Syst. XIX'
+  category: vla
+  doi: 10.15607/RSS.2023.XIX.025
+  in_survey: true
+  added: '2026-11-23'
+- id: brohan2023rt2
+  title: 'RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control'
+  first_author: Brohan
+  year: 2023
+  venue: Proc. 7th Conf. Robot Learn. (CoRL), PMLR
+  category: vla
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2307.15818'
+- id: kim2024openvla
+  title: 'OpenVLA: An Open-Source Vision-Language-Action Model'
+  first_author: Kim
+  year: 2024
+  venue: Proc. 8th Conf. Robot Learn. (CoRL), PMLR
+  category: vla
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2406.09246'
+- id: octo2024
+  title: 'Octo: An Open-Source Generalist Robot Policy'
+  first_author: Octo Model Team
+  year: 2024
+  venue: 'Robot.: Sci. Syst. XX'
+  category: vla
+  doi: 10.15607/RSS.2024.XX.090
+  in_survey: true
+  added: '2026-11-23'
+- id: black2025pi0
+  title: '$\pi_0$: A Vision-Language-Action Flow Model for General Robot Control'
+  first_author: Black
+  year: 2025
+  venue: 'Robot.: Sci. Syst. XXI'
+  category: vla
+  doi: 10.15607/RSS.2025.XXI.010
+  in_survey: true
+  added: '2026-11-23'
+- id: kim2025openvlaoft
+  title: 'Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success'
+  first_author: Kim
+  year: 2025
+  venue: 'Robot.: Sci. Syst. (RSS)'
+  category: vla
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2502.19645'
+- id: pertsch2025fast
+  title: 'FAST: Efficient Action Tokenization for Vision-Language-Action Models'
+  first_author: Pertsch
+  year: 2025
+  venue: 'Robot.: Sci. Syst. XXI'
+  category: vla
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2501.09747'
+- id: oneill2024oxe
+  title: 'Open X-Embodiment: Robotic Learning Datasets and RT-X Models'
+  first_author: Open X-Embodiment Collaboration
+  year: 2024
+  venue: Proc. IEEE Int. Conf. Robot. Autom. (ICRA)
+  category: benchmark
+  doi: 10.1109/ICRA57147.2024.10611477
+  in_survey: true
+  added: '2026-11-23'
+- id: khazatsky2024droid
+  title: 'DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset'
+  first_author: Khazatsky
+  year: 2024
+  venue: 'Robot.: Sci. Syst. XX'
+  category: benchmark
+  doi: 10.15607/RSS.2024.XX.120
+  in_survey: true
+  added: '2026-11-23'
+- id: walke2023bridge
+  title: 'BridgeData V2: A Dataset for Robot Learning at Scale'
+  first_author: Walke
+  year: 2023
+  venue: Proc. 7th Conf. Robot Learn. (CoRL), PMLR
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2308.12952'
+- id: liu2023libero
+  title: 'LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning'
+  first_author: Liu
+  year: 2023
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS), Datasets Benchmarks Track
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2306.03310'
+- id: fei2025liberoplus
+  title: 'LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models'
+  first_author: Fei
+  year: 2025
+  venue: arXiv preprint
+  category: benchmark
+  arxiv: '2510.13626'
+  in_survey: true
+  added: '2026-11-23'
+- id: mees2022calvin
+  title: 'CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks'
+  first_author: Mees
+  year: 2022
+  venue: IEEE Robot. Autom. Lett.
+  category: benchmark
+  doi: 10.1109/LRA.2022.3180108
+  in_survey: true
+  added: '2026-11-23'
+- id: chen2026robotwin2
+  title: 'RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation'
+  first_author: Chen
+  year: 2026
+  venue: Proc. 43rd Int. Conf. Mach. Learn. (ICML), PMLR
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2506.18088'
+- id: nasiriany2024robocasa
+  title: 'RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots'
+  first_author: Nasiriany
+  year: 2024
+  venue: 'Robot.: Sci. Syst. XX'
+  category: benchmark
+  doi: 10.15607/RSS.2024.XX.050
+  in_survey: true
+  added: '2026-11-23'
+- id: caesar2020nuscenes
+  title: 'nuScenes: A Multimodal Dataset for Autonomous Driving'
+  first_author: Caesar
+  year: 2020
+  venue: Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)
+  category: benchmark
+  doi: 10.1109/CVPR42600.2020.01164
+  in_survey: true
+  added: '2026-11-23'
+- id: sun2020waymo
+  title: 'Scalability in Perception for Autonomous Driving: Waymo Open Dataset'
+  first_author: Sun
+  year: 2020
+  venue: Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)
+  category: benchmark
+  doi: 10.1109/CVPR42600.2020.00252
+  in_survey: true
+  added: '2026-11-23'
+- id: tian2023occ3d
+  title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving'
+  first_author: Tian
+  year: 2023
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS), Datasets Benchmarks Track
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2304.14365'
+- id: dauner2024navsim
+  title: 'NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking'
+  first_author: Dauner
+  year: 2024
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS), Datasets Benchmarks Track
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2406.15349'
+- id: zhou2026drivinggen
+  title: 'DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving'
+  first_author: Zhou
+  year: 2026
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2601.01528'
+- id: puig2024habitat3
+  title: 'Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots'
+  first_author: Puig
+  year: 2024
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2310.13724'
+- id: ramakrishnan2021hm3d
+  title: 'Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI'
+  first_author: Ramakrishnan
+  year: 2021
+  venue: Adv. Neural Inf. Process. Syst. (NeurIPS), Datasets Benchmarks Track
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2109.08238'
+- id: chang2017mp3d
+  title: 'Matterport3D: Learning from RGB-D Data in Indoor Environments'
+  first_author: Chang
+  year: 2017
+  venue: Proc. Int. Conf. 3D Vis. (3DV)
+  category: benchmark
+  doi: 10.1109/3DV.2017.00081
+  in_survey: true
+  added: '2026-11-23'
+- id: li2025worldmodelbench
+  title: 'WorldModelBench: Judging Video Generation Models As World Models'
+  first_author: Li
+  year: 2025
+  venue: arXiv preprint
+  category: benchmark
+  arxiv: '2502.20694'
+  in_survey: true
+  added: '2026-11-23'
+- id: shang2026worldarena
+  title: 'WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models'
+  first_author: Shang
+  year: 2026
+  venue: arXiv preprint
+  category: benchmark
+  arxiv: '2602.08971'
+  in_survey: true
+  added: '2026-11-23'
+- id: motamed2026physicsiq
+  title: Do Generative Video Models Understand Physical Principles?
+  first_author: Motamed
+  year: 2026
+  venue: Proc. IEEE/CVF Winter Conf. Appl. Comput. Vis. (WACV)
+  category: benchmark
+  doi: 10.1109/WACV61042.2026.00099
+  in_survey: true
+  added: '2026-11-23'
+- id: bordes2025intphys2
+  title: 'IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments'
+  first_author: Bordes
+  year: 2025
+  venue: arXiv preprint
+  category: benchmark
+  arxiv: '2506.09849'
+  in_survey: true
+  added: '2026-11-23'
+- id: zheng2025vbench2
+  title: 'VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness'
+  first_author: Zheng
+  year: 2025
+  venue: arXiv preprint
+  category: benchmark
+  arxiv: '2503.21755'
+  in_survey: true
+  added: '2026-11-23'
+- id: duan2025worldscore
+  title: 'WorldScore: A Unified Evaluation Benchmark for World Generation'
+  first_author: Duan
+  year: 2025
+  venue: Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV)
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2504.00983'
+- id: chow2025physbench
+  title: 'PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding'
+  first_author: Chow
+  year: 2025
+  venue: Proc. Int. Conf. Learn. Represent. (ICLR)
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2501.16411'
+- id: li2024simplerenv
+  title: Evaluating Real-World Robot Manipulation Policies in Simulation
+  first_author: Li
+  year: 2025
+  venue: Proc. 8th Conf. Robot Learn. (CoRL), PMLR
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2405.05941'
+- id: atreya2025roboarena
+  title: 'RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies'
+  first_author: Atreya
+  year: 2025
+  venue: Proc. 9th Conf. Robot Learn. (CoRL), PMLR
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2506.18123'
+- id: tao2025maniskill3
+  title: 'ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI'
+  first_author: Tao
+  year: 2025
+  venue: 'Robot.: Sci. Syst. XXI'
+  category: benchmark
+  in_survey: true
+  added: '2026-11-23'
+  arxiv: '2410.00425'
+- id: chitta2023transfuser
+  title: 'TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving'
+  first_author: Chitta
+  year: 2023
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  category: baseline
+  doi: 10.1109/TPAMI.2022.3200245
+  in_survey: true
+  added: '2026-11-23'
+- id: li2024hydramdp
+  title: 'Hydra-MDP: End-to-End Multimodal Planning with Multi-Target Hydra-Distillation'
+  first_author: Li
+  year: 2024
+  venue: arXiv preprint
+  category: baseline
+  arxiv: '2406.06978'
+  in_survey: true
+  added: '2026-11-23'
+- id: jiang2023vad
+  title: 'VAD: Vectorized Scene Representation for Efficient Autonomous Driving'
+  first_author: Jiang
+  year: 2023
+  venue: Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV)
+  category: baseline
+  doi: 10.1109/ICCV51070.2023.00766
+  in_survey: true
+  added: '2026-11-23'
+- id: bharadhwaj2024gen2act
+  title: 'Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation'
+  first_author: Bharadhwaj
+  year: 2024
+  venue: arXiv preprint
+  category: video
+  arxiv: '2409.16283'
+  in_survey: true
+  added: '2026-11-23'
+- id: bharadhwaj2024track2act
+  title: 'Track2Act: Predicting Point Tracks from Internet Videos Enables Generalizable Robot Manipulation'
+  first_author: Bharadhwaj
+  year: 2024
+  venue: Proc. Eur. Conf. Comput. Vis. (ECCV), LNCS
+  category: video
+  doi: 10.1007/978-3-031-73116-7_18
+  in_survey: true
+  added: '2026-11-23'
+- id: babaeizadeh2021fitvid
+  title: 'FitVid: Overfitting in Pixel-Level Video Prediction'
+  first_author: Babaeizadeh
+  year: 2021
+  venue: arXiv preprint
+  category: video
+  arxiv: '2106.13195'
+  in_survey: true
+  added: '2026-11-23'
+- id: agibot2025colosseo
+  title: 'AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems'
+  first_author: AgiBot World Contributors
+  year: 2025
+  venue: arXiv preprint
+  category: benchmark
+  arxiv: '2503.06669'
+  in_survey: true
+  added: '2026-11-23'
+- id: grauman2022ego4d
+  title: 'Ego4D: Around the World in 3,000 Hours of Egocentric Video'
+  first_author: Grauman
+  year: 2022
+  venue: Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)
+  category: benchmark
+  doi: 10.1109/CVPR52688.2022.01842
+  in_survey: true
+  added: '2026-11-23'

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:arxiv="http://arxiv.org/schemas/atom">
+  <entry>
+    <id>http://arxiv.org/abs/2611.00001v1</id>
+    <title>A World Action Model for
+      Robot Manipulation</title>
+    <summary>We propose a world action model that predicts future video and actions for manipulation.</summary>
+    <published>2026-11-20T10:00:00Z</published>
+    <author><name>Ada Lovelace</name></author>
+    <author><name>Alan Turing</name></author>
+    <arxiv:comment>Accepted to CVPR 2027. Code available.</arxiv:comment>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.17526v1</id>
+    <title>Box-WAM: Box Trajectories as Compact State Representations for World Action Models</title>
+    <summary>Already listed paper.</summary>
+    <published>2026-11-19T10:00:00Z</published>
+    <author><name>Qinxi Yu</name></author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2611.00002v2</id>
+    <title>Graph neural networks for molecules</title>
+    <summary>Unrelated topic.</summary>
+    <published>2026-11-21T10:00:00Z</published>
+    <author><name>Someone Else</name></author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.00003v1</id>
+    <title>An old world model for driving</title>
+    <summary>world model driving world model</summary>
+    <published>2026-01-01T10:00:00Z</published>
+    <author><name>Old Author</name></author>
+  </entry>
+</feed>

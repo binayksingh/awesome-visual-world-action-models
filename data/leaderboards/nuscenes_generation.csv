@@ -1,0 +1,5 @@
+method,FID,FVD,paper_id,source,note
+DriveDreamer,52.6,452.0,wang2024drivedreamer,as compiled by Epona,
+Drive-WM,15.8,122.7,wang2024drivewm,as compiled by Epona,
+Vista,6.9,89.4,gao2024vista,as compiled by Epona,
+Epona,7.5,82.8,zhang2025epona,original,
